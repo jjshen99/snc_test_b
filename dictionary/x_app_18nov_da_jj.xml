@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="jj" max_length="40" name="x_app_18nov_da_jj" type="collection">
+        <element label="name2" max_length="40" name="name2" type="string"/>
+    </element>
+</database>
