@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <licensable>true</licensable>
+        <logo/>
+        <menu display_value="App_18Nov_DA">02418eb14ff30200888e4fa18110c79c</menu>
+        <name>App_18Nov_DA</name>
+        <private>false</private>
+        <scope>x_app_18nov_da</scope>
+        <short_description/>
+        <source>x_app_18nov_da</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-11-18 23:18:54</sys_created_on>
+        <sys_id>46410eb14ff30200888e4fa18110c7d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-11-18 23:18:54</sys_updated_on>
+        <template/>
+        <user_role display_value="x_app_18nov_da.user" name="x_app_18nov_da.user">96418eb14ff30200888e4fa18110c79c</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0</version>
+    </sys_app>
+</record_update>
