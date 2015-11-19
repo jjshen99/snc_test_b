@@ -4,7 +4,7 @@
         <active>true</active>
         <licensable>true</licensable>
         <logo/>
-        <menu display_value="App_18Nov_DA">02418eb14ff30200888e4fa18110c79c</menu>
+        <menu display_value="">02418eb14ff30200888e4fa18110c79c</menu>
         <name>App_18Nov_DA</name>
         <private>false</private>
         <scope>x_app_18nov_da</scope>
@@ -21,7 +21,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2015-11-18 23:18:54</sys_updated_on>
         <template/>
-        <user_role display_value="x_app_18nov_da.user" name="x_app_18nov_da.user">96418eb14ff30200888e4fa18110c79c</user_role>
+        <user_role display_value="">96418eb14ff30200888e4fa18110c79c</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0</version>
